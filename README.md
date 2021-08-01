@@ -1,17 +1,22 @@
-# auto-git README
+# Auto-Git
 
-This is a git auto-commit vscode plug-in
+This is a Git auto-commit extension for VS Code 
 
 ## Features
 
+Run the extension to perform the following:
+
+```sh
 git add .
 git commit -m
 git push origin branch
+```
 
 ## Requirements
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+- VS Code 1.52 or higher.
 
+<!--
 ## Extension Settings
 
 Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
@@ -59,3 +64,5 @@ Added features X, Y, and Z.
 * [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
 
 **Enjoy!**
+
+-->
